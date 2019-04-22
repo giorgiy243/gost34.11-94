@@ -1,0 +1,9 @@
+C:/Users/Egor/Desktop/ZI_4/ZI_4/bin/Debug/ZI_4.exe.config
+C:/Users/Egor/Desktop/ZI_4/ZI_4/bin/Debug/ZI_4.exe
+C:/Users/Egor/Desktop/ZI_4/ZI_4/bin/Debug/ZI_4.pdb
+C:/Users/Egor/Desktop/ZI_4/ZI_4/obj/Debug/ZI_4.csprojAssemblyReference.cache
+C:/Users/Egor/Desktop/ZI_4/ZI_4/obj/Debug/ZI_4.csproj.CoreCompileInputs.cache
+C:/Users/Egor/Desktop/ZI_4/ZI_4/obj/Debug/ZI_4.exe
+C:/Users/Egor/Desktop/ZI_4/ZI_4/obj/Debug/ZI_4.pdb
+/home/egor/Загрузки/ZI_4/ZI_4/obj/Debug/ZI_4.exe
+/home/egor/Загрузки/ZI_4/ZI_4/obj/Debug/ZI_4.pdb
